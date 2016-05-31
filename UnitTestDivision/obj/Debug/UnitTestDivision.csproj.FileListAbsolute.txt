@@ -1,0 +1,7 @@
+G:\QA\DivideProject\UnitTestDivision\obj\Debug\UnitTestDivision.csprojResolveAssemblyReference.cache
+G:\QA\DivideProject\UnitTestDivision\bin\Debug\UnitTestDivision.dll
+G:\QA\DivideProject\UnitTestDivision\bin\Debug\UnitTestDivision.pdb
+G:\QA\DivideProject\UnitTestDivision\bin\Debug\DivideProject.exe
+G:\QA\DivideProject\UnitTestDivision\bin\Debug\DivideProject.pdb
+G:\QA\DivideProject\UnitTestDivision\obj\Debug\UnitTestDivision.dll
+G:\QA\DivideProject\UnitTestDivision\obj\Debug\UnitTestDivision.pdb

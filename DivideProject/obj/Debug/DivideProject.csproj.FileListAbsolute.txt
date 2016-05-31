@@ -1,0 +1,9 @@
+G:\QA\DivideProject\DivideProject\bin\Debug\DivideProject.exe.config
+G:\QA\DivideProject\DivideProject\bin\Debug\DivideProject.exe
+G:\QA\DivideProject\DivideProject\bin\Debug\DivideProject.pdb
+G:\QA\DivideProject\DivideProject\obj\Debug\DivideProject.csprojResolveAssemblyReference.cache
+G:\QA\DivideProject\DivideProject\obj\Debug\DivideProject.Form1.resources
+G:\QA\DivideProject\DivideProject\obj\Debug\DivideProject.Properties.Resources.resources
+G:\QA\DivideProject\DivideProject\obj\Debug\DivideProject.csproj.GenerateResource.Cache
+G:\QA\DivideProject\DivideProject\obj\Debug\DivideProject.exe
+G:\QA\DivideProject\DivideProject\obj\Debug\DivideProject.pdb
